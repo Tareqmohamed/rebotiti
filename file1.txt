@@ -1,2 +1,3 @@
 Hello ,Git
 Scecode Line In File1
+tHIRD lINE iN fILE1
